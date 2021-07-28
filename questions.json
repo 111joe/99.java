@@ -1,0 +1,21 @@
+[ {
+  "question" : "Столица Испании?",
+  "offeredAnswers" : [ "1. Мадрид", "2. Каир", "3. Порто", "4. София" ],
+  "correctAnswer" : 1,
+  "currentAnswers" : 0
+}, {
+  "question" : "Столица Португалии?",
+  "offeredAnswers" : [ "1. Мадрид", "2. Каир", "3. Порто", "4. София" ],
+  "correctAnswer" : 3,
+  "currentAnswers" : 0
+}, {
+  "question" : "Столица Египта?",
+  "offeredAnswers" : [ "1. Мадрид", "2. Каир", "3. Порто", "4. София" ],
+  "correctAnswer" : 2,
+  "currentAnswers" : 0
+}, {
+  "question" : "Столица Болгарии?",
+  "offeredAnswers" : [ "1. Мадрид", "2. Каир", "3. Порто", "4. София" ],
+  "correctAnswer" : 4,
+  "currentAnswers" : 0
+}
